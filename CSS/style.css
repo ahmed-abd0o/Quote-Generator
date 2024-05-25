@@ -1,0 +1,28 @@
+.serif{
+    font-family: serif;
+}
+.impact {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1 {
+    font-size: 80px;
+}
+p {
+
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+button.btn {
+    padding-inline: 5rem;
+    padding-block: 1.8rem;
+    border-radius: 0;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    font-size: .8rem;
+    --bs-btn-hover-bg : lightgreen;
+    --bs-btn-hover-border-color: lightgreen;
+    --bs-btn-hover-color : black;
+    --bs-btn-active-bg : rgb(102, 201, 102);
+    --bs-btn-active-border-color : rgb(102, 201, 102) ;
+}
